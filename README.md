@@ -18,12 +18,15 @@ To run this project, you need to have Python installed along with the following 
 
 ## Results
 
-We split the dataset into training and testing sets and train multiple models including Logistic Regression and Decision Tree Classifier. We then evaluate their performance.
+We split the dataset into training and testing sets and train multiple models including Logistic Regression and Decision Tree Classifier. We then evaluate their performance.  <br/>
 
-Logistic Regression:
-	•	R-squared score: 0.8060630460887068
+Logistic Regression:  <br/>
+	•	R-squared score: 0.8060630460887068 <br/>
 
-Decision Tree Classifier: 
-	•	Mean Squared Error: 5.440142918701523
-	•	Accuracy: 0.9507733948577994
+Decision Tree Classifier:  <br/>
+	•	Mean Squared Error: 5.440142918701523  <br/>
+	•	Accuracy: 0.9507733948577994  <br/>
 
+## Conclusion
+
+In this project, we explored data pre-processing, visualization, and model training for predicting university admission chances. We evaluated the performance of logistic regression and decision tree classifiers. The models provide insights into the admission chances, though further tuning and exploration of other models may improve the results.
